@@ -1,4 +1,4 @@
-# HCS Workshop 0 - Introduction to the Frontend
+# HCS Workshop 1 - Introduction to the Frontend
 Starter Code for Spring 2022 HCS Workshop 1
 
 # Setup
